@@ -1,8 +1,8 @@
 package BTTH.model;
 
 public class Student {
-    private String studentId;
-    private String studentName;
+    String studentId;
+    String studentName;
 
     public static final String SCHOOL_NAME = "ABC University";
     public static int studentCount = 0;
